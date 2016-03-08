@@ -1,0 +1,3 @@
+# Module google
+# RPC service class, partial path of RPC policy file
+mx.com.ms.client.GreetingService, A9BB94619B8C00D15A696BB3935028DC.gwt.rpc
